@@ -1,0 +1,7 @@
+sampleName	fileName	condition	batch	GSM
+Treg_cells_set1		SRR5814027_no.star.HTseq.out	Treg_cells	one	GSM2698602
+Treg_cells_set2		SRR5814028_no.star.HTseq.out	Treg_cells	two	GSM2698603
+Treg_cells_set3		SRR5814029_no.star.HTseq.out	Treg_cells	three	GSM2698604
+Tfr_cells_set1		SRR5814030_no.star.HTseq.out	Tfr_cells	one	GSM2698605
+Tfr_cells_set2		SRR5814031_no.star.HTseq.out	Tfr_cells	two	GSM2698606
+Tfr_cells_set3		SRR5814032_no.star.HTseq.out	Tfr_cells	three	GSM2698607
